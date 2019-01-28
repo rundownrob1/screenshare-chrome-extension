@@ -1,7 +1,7 @@
 {
     "name" : "eTUSD BigBlueButton Screenshare Extension",
     "author": "BigBlueButton",
-    "version" : "0.0.6",
+    "version" : "0.0.7",
     "manifest_version" : 2,
     "minimum_chrome_version": "34",
     "description" : "Chrome Extension granting WebRTC screen capturing capabilities to BigBlueButton meetings.",
